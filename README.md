@@ -6,6 +6,9 @@ This is the first one of many.
 "Box breathing is a powerful but simple relaxation technique that aims to return breathing to its normal rhythm after a stressful experience. It may help clear the mind, relax the body, and improve focus."*
 <br>
 <br>
+Read this [article](https://www.medicalnewstoday.com/articles/321805) to get to know more about Box-Breathing
+<br>
+<br>
 I have also believed that these techniques help in the betterment of life hence I have decided to create this app to help myself and others in this process.
 <br>
 I have used flutter to create this application
